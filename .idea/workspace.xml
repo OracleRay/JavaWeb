@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jedis:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42d0e4e5-085d-4c8d-abe4-dd459d9fea06" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="XML File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Program Files/JavaLibraries/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\Program Files\JavaLibraries\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xI1WDrYoGqwjuuqDPWrmaYTSYx" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jedis/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.24064837" />
+    <property name="project.structure.side.proportion" value="0.24835527" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.3337041" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\jedis\src" />
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\jedis\src\案例\utils" />
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\jedis\web" />
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\jedis\web\WEB-INF\lib" />
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\jedis\src\快速入门" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\登录查询\src" />
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\登录查询" />
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\列表查询\web" />
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\列表查询\WEB-INF" />
+      <recent name="D:\雷东宸\IdeaProjects\JavaWeb\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="utils" />
+      <recent name="cookie" />
+      <recent name="Servlet" />
+      <recent name="登录验证" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProxyTest">
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="proxy.ProxyTest" />
+      <module name="Proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="快速入门.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="快速入门" />
+      <option name="MAIN_CLASS_NAME" value="快速入门.JedisTest" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jedis连接池.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="快速入门.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="快速入门" />
+      <option name="MAIN_CLASS_NAME" value="快速入门.Jedis连接池" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jedis数据类型.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="快速入门.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="快速入门" />
+      <option name="MAIN_CLASS_NAME" value="快速入门.Jedis数据类型" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jedis连接池.TestPool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jedis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="快速入门.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="快速入门" />
+      <option name="MAIN_CLASS_NAME" value="快速入门.Jedis连接池" />
+      <option name="METHOD_NAME" value="TestPool" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.52" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/jedis" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jedis:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jedis" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="e90f2f9a-b9c9-417f-86cf-b571445d2556" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55301" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jedis:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ProxyTest" />
+      <item itemvalue="JUnit.Jedis连接池.Test" />
+      <item itemvalue="JUnit.Jedis数据类型.Test1" />
+      <item itemvalue="JUnit.Jedis连接池.TestPool" />
+      <item itemvalue="JUnit.JedisTest.test8" />
+      <item itemvalue="Tomcat Server.Tomcat 9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="JUnit.Jedis连接池.TestPool" />
+        <item itemvalue="JUnit.JedisTest.test8" />
+        <item itemvalue="JUnit.Jedis连接池.Test" />
+        <item itemvalue="JUnit.Jedis数据类型.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d0e4e5-085d-4c8d-abe4-dd459d9fea06" name="Changes" comment="" />
+      <created>1630027819327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630027819327</updated>
+      <workItem from="1630027820847" duration="319000" />
+      <workItem from="1630028162253" duration="38000" />
+      <workItem from="1630028381036" duration="4437000" />
+      <workItem from="1630035309350" duration="1314000" />
+      <workItem from="1630037367975" duration="1975000" />
+      <workItem from="1630111060888" duration="6505000" />
+      <workItem from="1630138347689" duration="3471000" />
+      <workItem from="1630224552037" duration="7058000" />
+      <workItem from="1630232112519" duration="1939000" />
+      <workItem from="1630313795931" duration="4072000" />
+      <workItem from="1630459999915" duration="2906000" />
+      <workItem from="1630463232913" duration="2342000" />
+      <workItem from="1630485660789" duration="5092000" />
+      <workItem from="1630546592736" duration="5180000" />
+      <workItem from="1630573246951" duration="3886000" />
+      <workItem from="1630657307161" duration="2869000" />
+      <workItem from="1630725377384" duration="4265000" />
+      <workItem from="1630809103936" duration="3816000" />
+      <workItem from="1630895361715" duration="4155000" />
+      <workItem from="1630980372834" duration="4210000" />
+      <workItem from="1631009121203" duration="1392000" />
+      <workItem from="1631064584207" duration="7854000" />
+      <workItem from="1631072545491" duration="730000" />
+      <workItem from="1631281536011" duration="140000" />
+      <workItem from="1631414303180" duration="3730000" />
+      <workItem from="1631419601020" duration="1194000" />
+      <workItem from="1631431040240" duration="660000" />
+      <workItem from="1631530522421" duration="26000" />
+      <workItem from="1631530829762" duration="197000" />
+      <workItem from="1631538323262" duration="1582000" />
+      <workItem from="1631591244650" duration="3848000" />
+      <workItem from="1631689293401" duration="16810000" />
+      <workItem from="1631754905998" duration="14577000" />
+      <workItem from="1631781128871" duration="9553000" />
+      <workItem from="1631793522876" duration="472000" />
+      <workItem from="1631794181233" duration="272000" />
+      <workItem from="1631794505737" duration="2322000" />
+      <workItem from="1631885717004" duration="620000" />
+      <workItem from="1631886961227" duration="4584000" />
+      <workItem from="1631891995817" duration="253000" />
+      <workItem from="1632487229675" duration="5345000" />
+      <workItem from="1632535373900" duration="7499000" />
+      <workItem from="1632575627758" duration="4804000" />
+      <workItem from="1632639153328" duration="7377000" />
+      <workItem from="1632654913226" duration="4029000" />
+      <workItem from="1632713199044" duration="2123000" />
+      <workItem from="1632717207539" duration="646000" />
+      <workItem from="1632736464632" duration="10780000" />
+      <workItem from="1632797153909" duration="6253000" />
+      <workItem from="1632811200567" duration="1931000" />
+      <workItem from="1632828907647" duration="522000" />
+      <workItem from="1632913612931" duration="999000" />
+      <workItem from="1633509838924" duration="60000" />
+      <workItem from="1633607400217" duration="169000" />
+      <workItem from="1633607951679" duration="213000" />
+      <workItem from="1633608197345" duration="38000" />
+      <workItem from="1633608637659" duration="2336000" />
+      <workItem from="1633683640943" duration="1696000" />
+      <workItem from="1633686467440" duration="6133000" />
+      <workItem from="1633694240147" duration="4931000" />
+      <workItem from="1633738697419" duration="410000" />
+      <workItem from="1633746157135" duration="11000" />
+      <workItem from="1633775291214" duration="9047000" />
+      <workItem from="1633793631899" duration="1849000" />
+      <workItem from="1633837144148" duration="23156000" />
+      <workItem from="1633866347845" duration="4642000" />
+      <workItem from="1633875537567" duration="449000" />
+      <workItem from="1634031364016" duration="572000" />
+      <workItem from="1634042445728" duration="8262000" />
+      <workItem from="1634100274820" duration="22000" />
+      <workItem from="1634292335467" duration="12706000" />
+      <workItem from="1634306211497" duration="4000" />
+      <workItem from="1634306340993" duration="4633000" />
+      <workItem from="1634385297100" duration="10721000" />
+      <workItem from="1634438885452" duration="12412000" />
+      <workItem from="1634467488799" duration="114000" />
+      <workItem from="1634548374122" duration="4000" />
+      <workItem from="1634607934665" duration="38000" />
+      <workItem from="1634692041379" duration="14000" />
+      <workItem from="1634981891625" duration="14000" />
+      <workItem from="1635085611863" duration="9000" />
+      <workItem from="1635132576500" duration="23000" />
+      <workItem from="1635218358218" duration="2000" />
+      <workItem from="1635323883143" duration="970000" />
+      <workItem from="1635325152086" duration="78000" />
+      <workItem from="1635325262901" duration="10000" />
+      <workItem from="1635326385820" duration="96000" />
+      <workItem from="1635766962981" duration="98000" />
+      <workItem from="1635850686551" duration="2941000" />
+      <workItem from="1636795658751" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ExceptionInInitializerError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaWeb$Tomcat_9.ic" NAME="Tomcat 9 Coverage Results" MODIFIED="1630039249102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JavaWeb$Tomcat_9_0_52.ic" NAME="Tomcat 9.0.52 Coverage Results" MODIFIED="1630038556013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

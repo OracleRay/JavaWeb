@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>事件绑定、入口函数、样式控制</title>
+    <script src="js/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<div id="div1">div1...</div>
+<input type="button" id="b1" value="点一下试试">
+<script>
+    /*
+    window.onload = function (){                           //js的入口函数
+        let div1 = document.getElementById("div1");
+        document.getElementById("b1").onclick = function (){                //js的事件绑定
+            alert(div1.innerHTML);
+        }
+    }
+    */
+    $(function(){                                 //jq的入口函数(必须加)
+        let $div1 = $("#div1");
+        $div1.css("backgroundColor","pink");                   //Dom方式引入
+        $("#b1").click(function (){               //jq的事件绑定
+            alert($div1.html());
+            $("#div1").css("background-color","red");             //jq的样式控制
+        });
+    });
+    /*
+        window.onload  和 $(function) 区别
+                * window.onload 只能定义一次,如果定义多次，后边的会将前边的覆盖掉
+                * $(function)可以定义多次的。
+     */
+</script>
+</body>
+</html>

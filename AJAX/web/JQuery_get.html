@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>get方法</title>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script>
+        function fun() {
+            $.get("ajaxServlet",{username:"rose"},function (data){            //data:规定连同请求发送到服务器的数据。
+                alert(data);
+            },"text");                                 //text:规定预计的服务器响应的数据类型。
+        }
+    </script>
+</head>
+<body>
+<input type="button" value="发送异步请求" onclick="fun()">
+</body>
+</html>

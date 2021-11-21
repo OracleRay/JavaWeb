@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/JSON/web/登录验证.html" value="file://$PROJECT_DIR$/JSON/web" />
+        <entry key="file://$PROJECT_DIR$/web/HttpServletDemo.html" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/el表达式/el2.jsp" value="file://$PROJECT_DIR$/web/el表达式" />
+        <entry key="file://$PROJECT_DIR$/web/jsp/500.jsp" value="file://$PROJECT_DIR$/web/jsp" />
+        <entry key="file://$PROJECT_DIR$/web/login.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/上次访问时间.jsp" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/查询/web/add.html" value="file://$PROJECT_DIR$/查询/web" />
+        <entry key="file://$PROJECT_DIR$/登录查询/web/update.jsp" value="file://$PROJECT_DIR$/登录查询/web" />
+      </map>
+    </option>
+  </component>
+</project>

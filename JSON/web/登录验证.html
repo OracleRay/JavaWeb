@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <title>登录</title>
+    <script>
+        $(function (){
+           $("#username").blur(function (){
+               let username = $(this).val();
+               $.get("signServlet",{username:username},function (data){
+                   let span = $("#user_msg");
+                   if(data.userExist){
+                        span.css("color","red");
+                        span.html(data.msg);
+                   }else {
+                       span.css("color","green");
+                       span.html(data.msg);
+                   }
+               });
+           });
+        });
+    </script>
+</head>
+<body>
+<form>
+    <P>用户名：</P>
+    <input type="text" id="username" name="username" placeholder="请输入用户名：">
+    <span id="user_msg"></span>
+    <P>密码：</P>
+    <input type="password" id="password" name="password" placeholder="请输入密码：">
+    <input type="submit" value="注册">
+</form>
+</body>
+</html>

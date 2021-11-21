@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JSON遍历</title>
+    <script>
+        let person = {"name":"张三","age":"23","gender":true};
+        let persons = [
+                {"name":"张三","age":"23","gender":true},
+                {"name":"李四","age":"25","gender":false},
+                {"name":"王五","age":"23","gender":true}
+            ]
+        for(let key in person){
+            alert(key + ":" +person[key]);
+        }
+        for(let key = 0;key < persons.length;key++){
+            let p = persons[key];
+            for(let i in p){
+                alert(i + ":" + p[i]);
+            }
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>

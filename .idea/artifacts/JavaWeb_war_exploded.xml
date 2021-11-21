@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaWeb:war exploded">
+    <output-path>$PROJECT_DIR$/../../../Program Files/JavaLibraries/apache-tomcat-9.0.52/webapps/idea_web</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaWeb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="tomcat-api" />
+          <element id="library" level="project" name="servlet-api" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
